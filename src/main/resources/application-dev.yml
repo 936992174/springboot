@@ -1,2 +1,10 @@
 server:
   port: 8082
+logging:
+  level:
+    com:
+      soya: trace
+  file:
+    path: /spring/log
+  pattern:
+    file:

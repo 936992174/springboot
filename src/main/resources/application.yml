@@ -3,7 +3,7 @@ server:
 person:
   name: zhangszan
   age: 13
-  boss: false
+  isBoss: false
   birth: 2017/11/05
   maps: {data1: v1,data2: s1,data3: dd}
   objects:
